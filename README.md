@@ -1,3 +1,3 @@
 ### Hey!
 
-I'm Henry. I love Computer Science, Math and Physics!
+I'm Henry. I love computer science, math and physics!
