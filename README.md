@@ -1,3 +1,2 @@
-### Hey!
-
-I'm Henry. I love computer science, math and physics!
+### Henry
+Useless theoretical CS + ML + Math + Everything else
